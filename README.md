@@ -523,7 +523,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 ### 🇧🇷 Brazil
 
 - [Flutter talk](https://github.com/JHBitencourt/flutter_talk) de introdução ao Flutter em português by [Julio Bitencourt](http://juliobitencourt.com)
-- Slack [Flutter Brasil](https://flutterbr.slack.com)
+- Slack [Flutter Brasil](http://flutterbr.herokuapp.com/)
 
 ### 🇨🇮 Côte d'Ivoire (Ivory Coast)
 
